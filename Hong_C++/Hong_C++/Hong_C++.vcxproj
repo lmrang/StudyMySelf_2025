@@ -140,6 +140,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="10_struct.cpp" />
     <ClCompile Include="7_enumeratedTypes.cpp" />
     <ClCompile Include="9_TypeAliases.cpp" />
   </ItemGroup>
