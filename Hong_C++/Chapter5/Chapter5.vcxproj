@@ -139,9 +139,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="10_cin.cpp" />
     <ClCompile Include="2_if.cpp" />
     <ClCompile Include="3_switch-case.cpp" />
     <ClCompile Include="5_while.cpp" />
+    <ClCompile Include="7_for.cpp" />
+    <ClCompile Include="8_break,continue.cpp" />
+    <ClCompile Include="9_randomNumbers.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
