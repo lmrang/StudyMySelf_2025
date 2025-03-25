@@ -145,6 +145,10 @@
     <ClCompile Include="4_selectionSort.cpp" />
     <ClCompile Include="5_multiDimensionalArray.cpp" />
     <ClCompile Include="6_.cpp" />
+    <ClCompile Include="7a_nullPointer.cpp" />
+    <ClCompile Include="7_pointer.cpp" />
+    <ClCompile Include="8_pointerArrray.cpp" />
+    <ClCompile Include="9_pointgerIndexing.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
