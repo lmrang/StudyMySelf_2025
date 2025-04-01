@@ -139,6 +139,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="10_symbolic.cpp" />
+    <ClCompile Include="11_dynamicMemoryAllocation.cpp" />
+    <ClCompile Include="12_dynamicallyAllocatingArrays.cpp" />
     <ClCompile Include="1_array.cpp" />
     <ClCompile Include="2_array2.cpp" />
     <ClCompile Include="3_arrayFor.cpp" />
