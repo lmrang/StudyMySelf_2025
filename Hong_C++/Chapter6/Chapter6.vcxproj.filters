@@ -54,5 +54,20 @@
     <ClCompile Include="12_dynamicallyAllocatingArrays.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="13_pointerConst.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="14_referenceVariable.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="15_referenceConst.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="16_memberSelectionOperators.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="17_forEachCpp11.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
