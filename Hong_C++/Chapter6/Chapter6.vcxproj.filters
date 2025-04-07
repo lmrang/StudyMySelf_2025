@@ -69,5 +69,17 @@
     <ClCompile Include="17_forEachCpp11.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="18_voidPointer.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="19_doublePointer.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="20_stdArray.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="21_vector.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
